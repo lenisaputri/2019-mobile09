@@ -6,25 +6,24 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="064faa6c-500b-4328-b866-c667a055aaa2" name="Default Changelist" comment="Tugas 1">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tugasnomer1/adapters/HewanAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tugasnomer1/models/Hewan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/bebek_hewan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/gajah_hewan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/bebek_hewan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gajah_hewan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/bebek_hewan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/gajah_hewan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/bebek_hewan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/gajah_hewan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/bebek_hewan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/gajah_hewan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_hewan.xml" afterDir="false" />
+    <list default="true" id="064faa6c-500b-4328-b866-c667a055aaa2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../TugasNomer2/app/src/main/java/com/example/tugasnomer2/adapters/HewanAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TugasNomer2/app/src/main/java/com/example/tugasnomer2/models/Hewan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TugasNomer2/app/src/main/res/drawable-hdpi/bebek_hewan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TugasNomer2/app/src/main/res/drawable-hdpi/gajah_hewan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TugasNomer2/app/src/main/res/drawable-mdpi/bebek_hewan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TugasNomer2/app/src/main/res/drawable-mdpi/gajah_hewan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TugasNomer2/app/src/main/res/drawable-xhdpi/bebek_hewan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TugasNomer2/app/src/main/res/drawable-xhdpi/gajah_hewan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TugasNomer2/app/src/main/res/drawable-xxhdpi/bebek_hewan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TugasNomer2/app/src/main/res/drawable-xxhdpi/gajah_hewan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TugasNomer2/app/src/main/res/drawable-xxxhdpi/bebek_hewan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TugasNomer2/app/src/main/res/drawable-xxxhdpi/gajah_hewan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TugasNomer2/app/src/main/res/layout/item_hewan.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/tugasnomer1/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/tugasnomer1/ExampleInstrumentedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tugasnomer1/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tugasnomer1/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TugasNomer2/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../TugasNomer2/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TugasNomer2/app/src/main/java/com/example/tugasnomer2/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TugasNomer2/app/src/main/java/com/example/tugasnomer2/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TugasNomer2/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TugasNomer2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,36 +46,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tugasnomer1/adapters/HewanAdapter.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#584#585#0" expanded="true" />
-                <element signature="e#624#625#0" expanded="true" />
-                <element signature="e#1454#1455#0" expanded="true" />
-                <element signature="e#1519#1520#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_hewan.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            <state relative-caret-position="110">
+              <caret line="7" selection-end-line="20" selection-end-column="52" />
             </state>
           </provider>
           <provider editor-type-id="android-designer2" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tugasnomer1/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="38" column="53" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="53" />
+            <state relative-caret-position="272">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="17" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,8 +94,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="697" />
+    <option name="x" value="-73" />
+    <option name="y" value="-8" />
+    <option name="width" value="1096" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -334,14 +318,28 @@
       <option name="project" value="LOCAL" />
       <updated>1571905283074</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tugas 1 FIX">
+      <created>1571907690269</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571907690269</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Tugas 1 FIX">
+      <created>1571907808058</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571907808058</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" visible="true" weight="0.2965204" />
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.19288956" />
       <window_info id="Structure" side_tool="true" />
       <window_info id="Build Variants" side_tool="true" />
       <window_info id="Image Layers" />
@@ -352,11 +350,11 @@
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Run" />
       <window_info anchor="bottom" id="Logcat" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3289689" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="Android Profiler" />
       <window_info anchor="bottom" id="Debug" />
-      <window_info anchor="bottom" id="Terminal" weight="0.33387887" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.33387887" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.4599018" />
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
@@ -364,12 +362,13 @@
       <window_info anchor="right" id="Gradle" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Palette&#9;" />
-      <window_info active="true" anchor="right" id="Preview" visible="true" weight="0.26626325" />
+      <window_info anchor="right" id="Preview" weight="0.46369138" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
+    <MESSAGE value="Tugas 1 FIX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tugas 1 FIX" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/tugasnomer1/ExampleInstrumentedTest.java">
@@ -386,42 +385,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tugasnomer1/models/Hewan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+        <state relative-caret-position="136">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
           <folding>
             <element signature="e#343#344#0" expanded="true" />
             <element signature="e#375#376#0" expanded="true" />
             <element signature="e#425#426#0" expanded="true" />
             <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
             <element signature="e#643#644#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tugasnomer1/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_hewan.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="38" column="53" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="289">
+          <caret line="17" column="12" lean-forward="true" selection-end-line="21" selection-end-column="15" />
         </state>
       </provider>
+      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tugasnomer1/adapters/HewanAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        <state relative-caret-position="872">
+          <caret line="63" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#584#585#0" expanded="true" />
@@ -432,13 +422,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_hewan.xml">
+    <entry file="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/res/values/values.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        <state relative-caret-position="127">
+          <caret line="75" column="40" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" selection-end-line="20" selection-end-column="52" />
         </state>
       </provider>
       <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tugasnomer1/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
