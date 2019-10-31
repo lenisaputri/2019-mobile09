@@ -33,6 +33,12 @@ public class MainActivity extends AppCompatActivity {
         hewan = new Hewan("Gajah", this.getResources().getDrawable(R.drawable.gajah_hewan));
         //menambahkan hero ke listSuperHero
         listHewan.add(hewan);
+        hewan = new Hewan("Gajah", this.getResources().getDrawable(R.drawable.gajah_hewan));
+        //menambahkan hero ke listSuperHero
+        listHewan.add(hewan);
+        hewan = new Hewan("Bebek", this.getResources().getDrawable(R.drawable.bebek_hewan));
+        //menambahkan hero ke listSuperHero
+        listHewan.add(hewan);
         //Instansiasi Adapter
         HewanAdapter hewanAdapter = new HewanAdapter(listHewan);
         //set adapter dan layoutmanager
